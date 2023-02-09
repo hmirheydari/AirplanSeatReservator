@@ -1,0 +1,8 @@
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\bin\Debug\AirplanSeatReservator.exe.config
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\bin\Debug\AirplanSeatReservator.exe
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\bin\Debug\AirplanSeatReservator.pdb
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\obj\Debug\AirplanSeatReservator.exe
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\obj\Debug\AirplanSeatReservator.pdb
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\obj\Debug\AirplanSeatReservator.csproj.AssemblyReference.cache
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\obj\Debug\AirplanSeatReservator.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\Airplan_Seat_Reservator\AirplanSeatReservator\AirplanSeatReservator\obj\Debug\AirplanSeatReservator.csproj.CoreCompileInputs.cache
